@@ -1,20 +1,9 @@
-<h1 align="center">Selamun Aleykum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25"/>, I'm Mahmut</h1>
+<h1 align="center">Selamun Aleykum, I'm Mahmut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25"/></h1>
 <h3 align="center">I'm a student of Computer Engineering, a photographer, and a part-time musician.</h3>
 <br>
 
 - 🌱 I’m currently learning **Javascript, React.js, Tailwind CSS, etc.**
 - 📝 My personal blog **[mahmutoz.com](https://mahmutoz.com)**
-
-## Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/mahmutoz" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="@mahmutoz" height="30" width="30" title="LinkedIn"/></a>
-<a href="https://instagram.com/mahmuuttz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="@mahmuuttz" height="30" width="30" title="Instagram"/></a>
-<a href="https://twitter.com/mahmuuttz" target="blank"><img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" alt="@mahmuuttz" height="30" width="30" title="Twitter"/></a>
-<a href="https://codepen.io/mahmuttz/" target="blank"><img align="center" src="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" alt="@mahmuttz" height="30" width="30" title="Codepen"/></a>
-<a href="https://www.r10.net/profil/129467-mahmutoz.html" target="blank"><img align="center" src="https://cdn.r10.net/modern/img/apple-touch/apple-touch-icon-76x76.png" alt="@mahmutoz" height="30" width="30" title="R10"/></a>
-<a href="https://1000kitap.com/mahmutoz" target="blank"><img align="center" src="https://1000kitap.com/tema/img/ikon/favicon.ico" alt="@mahmutoz" height="30" width="30" title="1000Kitap"/></a>
-</p>
 
 ## Technologies:
 
@@ -22,7 +11,8 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" title="HTML 5"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" title="CSS 3"/> </a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" title="Javascript"/> </a> 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30" title="Vue.js"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="react.js" width="40" height="30" title="React.js"/> </a> 
+<a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png" alt="vuejs" width="30" height="25" title="Vue.js"/> </a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="27" height="30" title="C"/> </a>
 <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="27" height="30" title="C++"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30" title="C#"/> </a>
@@ -50,4 +40,26 @@
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30" title="Trello"/> </a>
 <a href="https://www.screamingfrog.co.uk/seo-spider/" target="_blank"> <img src="https://www.screamingfrog.co.uk/wp-content/themes/screamingfrog/public/images/favicon.ico" alt="Screaming frog" width="30" height="30" title="Screaming frog"/> </a>
 
+</p>
+
+## Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/mahmutoz" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="@mahmutoz" height="30" width="30" title="LinkedIn"/></a>
+<a href="https://instagram.com/mahmuuttz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="@mahmuuttz" height="30" width="30" title="Instagram"/></a>
+<a href="https://twitter.com/mahmuuttz" target="blank"><img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" alt="@mahmuuttz" height="30" width="30" title="Twitter"/></a>
+<a href="https://codepen.io/mahmuttz/" target="blank"><img align="center" src="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" alt="@mahmuttz" height="30" width="30" title="Codepen"/></a>
+<a href="https://www.r10.net/profil/129467-mahmutoz.html" target="blank"><img align="center" src="https://cdn.r10.net/modern/img/apple-touch/apple-touch-icon-76x76.png" alt="@mahmutoz" height="30" width="30" title="R10"/></a>
+<a href="https://1000kitap.com/mahmutoz" target="blank"><img align="center" src="https://1000kitap.com/tema/img/ikon/favicon.ico" alt="@mahmutoz" height="30" width="30" title="1000Kitap"/></a>
+</p>
+<p>
+<a>
+<img 
+  alt="GitHub Metrics" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmutoz&langs_count=20&theme=monokai&layout=compact&count_private=true" 
+  width="400px" />
+</a>
+</p>
+<p>
+<img alt="Views" src="https://gpvc.arturio.dev/mahmutoz"/>
 </p>
