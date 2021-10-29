@@ -1,9 +1,9 @@
 <h1 align="center">Selamun Aleykum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25"/>, I'm Mahmut</h1>
-<h3 align="center">I'm a Computer Engineering student, photographer and half-time musician.</h3>
+<h3 align="center">I'm a student of Computer Engineering, a photographer, and a part-time musician.</h3>
 <br>
 
-- 🌱 I’m currently learning **Vue.js, Javascript, Tailwind CSS, etc.**
-- 📝 My personal blog **[https://mahmutoz.com](https://mahmutoz.com)**
+- 🌱 I’m currently learning **Javascript, React.js, Tailwind CSS, etc.**
+- 📝 My personal blog **[mahmutoz.com](https://mahmutoz.com)**
 
 ## Connect with me:
 
