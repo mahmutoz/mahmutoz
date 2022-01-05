@@ -1,5 +1,7 @@
-<b>Selamun Aleykum, my name is Mahmut. I'm a student of Computer Engineering, a photographer, and a part-time musician.</b>
+<img src="https://media3.giphy.com/media/31X1R0MVMRaHttUkEY/giphy.gif?cid=ecf05e475kyab0w5j4tyuf6m40bzazplwsslv3zt3gmd902i&rid=giphy.gif&ct=g" width="100%">
 
+<b>Selamun Aleykum, I'm Mahmut. I'm a student of Computer Engineering, a photographer, and a part-time musician.</b>
+---
 - 🌱 I’m currently learning **Javascript, React.js, Tailwind CSS, etc.**
 - 📝 My personal website **[mahmutoz.com](https://mahmutoz.com)**
 
